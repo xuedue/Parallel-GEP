@@ -1,5 +1,5 @@
 # Parallel-GEP
-Paper:Comparison of Different Computing Platforms for Implementing Parallel Genetic Programming
+#Paper:Comparison of Different Computing Platforms for Implementing Parallel Genetic Programming
 
 The implements of three parallel GPs which is based on MPI, GPU, Spark.
 
@@ -10,6 +10,7 @@ Spark-GP uses Java language, you should install and configure the Spark and Hado
 During the experiments, our codes are running in windows (win10) system.
 
 For cite
+'''
 @inproceedings{zeng2020comparison,
   title={Comparison of Different Computing Platforms for Implementing Parallel Genetic Programming},
   author={Zeng, Ruihua and Huang, Zhixing and Chen, Yongliang and Zhong, Jinghui and Feng, Liang},
@@ -18,6 +19,6 @@ For cite
   year={2020},
   organization={IEEE}
 }
-
+'''
 
 
